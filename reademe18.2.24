@@ -1,0 +1,29 @@
+Η εφαρμογή τρέχει με την εκτέλεση του main.py
+
+Όλες οι συναρτήσεις που χρησιμοποιούνται εμπεριέχονται μέσα στο package "MeetMePack" και είναι χωρισμένες σε modules ανάλογα με τις εργασίες που εκτελούν. 
+
+Η διάρθωση του package, των module και των fuction είναι:
+
+MeetMePack 
+
+  1. database.py
+ 
+     a. connent_database()
+        Δημιουργεί/συνδέει την βάση δεδομένων με όνομα "MeetMe_database.db"
+
+     b. create_client(conn) 
+        Παίρνει σαν όρισμα την επιστροφή της connent_database() άρα create_client(connent_database())
+        Δημιουργεί το πίνακα της client
+
+     c. create_appointment(conn)
+        παίρνει σαν όρισμα την επιστροφή της connent_database() άρα create_client(connent_database())
+        Δημιουργεί το πίνακα της appointment
+
+  2. client.py
+
+
+  3. appointment.py
+
+
+  4. display.py
+
