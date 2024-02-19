@@ -1,0 +1,35 @@
+def print_client(client):
+    if client == 0:
+        print("No entry")
+    else:
+        print("Client ID:", client[0])
+        print("Name:", client[1])
+        print("Surname:", client[2])
+        print("Phone:", client[3])
+        print("Email:", client[4])
+
+
+def print_appointment(appointment):
+    if appointment == 0:
+        print("No entry")
+    else:
+        print("Appointment ID:", appointment[0])
+        print("Date:", appointment[1])
+        print("Start Time:", appointment[2])
+        print("End Time:", appointment[3])
+        print("Duration:", appointment[4])
+        print("Client ID:", appointment[5])
+
+
+def print_appointments(appointments):
+    if appointments == 0:
+        print("No entry")
+    else:
+        for appointment in appointments:
+            print("Appointment ID:", appointment[0])
+            print("Date:", appointment[1])
+            print("Start Time:", appointment[2])
+            print("End Time:", appointment[3])
+            print("Duration:", appointment[4])
+            print("Client ID:", appointment[5])
+            print()
