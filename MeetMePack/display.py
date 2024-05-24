@@ -126,8 +126,8 @@ def remind_email(conn, date):
     # Connection details
     smtp_server = 'smtp-mail.outlook.com'
     port = 587
-    sender_email = 'no.reply.meetme@outlook.com'
-    password = 'MeetM3@plipro'  # Ensure this is an app password if 2FA is enabled
+    sender_email = '' # <--- Insert your outlook e-mail
+    password = ''  # <--- Insert your password / Ensure this is an app password if 2FA is enabled
 
     try:
         # Connect server
