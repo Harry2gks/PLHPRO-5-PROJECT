@@ -120,7 +120,3 @@ MeetMePack
 	Παίρνει ορίσματα την επιστροφή της connent_database() και ημερομηνία
 	Εξάγη xlsx μετά ραντεβού της ημερομηνίας που δώθηκε 
 
-
-Στοιχεία Αλλιλογραφίας
-         email:    no.reply.meetme@outlook.com
-      password:    MeetM3@plipro
