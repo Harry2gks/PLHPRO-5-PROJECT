@@ -11,7 +11,7 @@ _____________________________Your Appointment Management Solution_______________
 
 # Προγραμματιστικό Project στα πλαισια του μαθήματος ΠΛΗΠΡΟ  του Ελληνικού Ανοιχτού Πανεπιστημίου, ομαδα 5
 
-Ένα σύντομο project που διαχειρίζεται τα ραντεβού μίας μικρής επιχείρησης, αναπτυγμένο σε [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+Ένα σύντομο project που διαχειρίζεται τα ραντεβού μίας μικρής επιχείρησης, αναπτυγμένο σε [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) &  [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
 
 Η εφαρμογή τρέχει με την εκτέλεση του main.py
 
