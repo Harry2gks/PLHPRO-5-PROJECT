@@ -11,7 +11,7 @@ _____________________________Your Appointment Management Solution_______________
 
 # Προγραμματιστικό Project στα πλαισια του μαθήματος ΠΛΗΠΡΟ  του Ελληνικού Ανοιχτού Πανεπιστημίου, ομαδα 5
 
-Ένα σύντομο project που διαχειρίζεται τα ραντεβού μίας μικρής επιχείρησης, αναπτυγμένο σε [](https://img.icons8.com/?size=100&id=13441&format=png&color=000000) & [](https://img.icons8.com/?size=100&id=VMRAbKfEzssG&format=png&color=FAB005)
+Ένα σύντομο project που διαχειρίζεται τα ραντεβού μίας μικρής επιχείρησης, αναπτυγμένο σε [python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000) & [](https://img.icons8.com/?size=100&id=VMRAbKfEzssG&format=png&color=FAB005)
 
 Η εφαρμογή τρέχει με την εκτέλεση του main.py
 
