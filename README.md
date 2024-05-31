@@ -10,11 +10,11 @@ ________________________________________________________________________________
 _____________________________Your Appointment Management Solution_____________________________
 
 # Προγραμματιστικό Project στα πλαισια του μαθήματος ΠΛΗΠΡΟ  του Ελληνικού Ανοιχτού Πανεπιστημίου, ομαδα 5
-# For the english version of this file, scroll down
+## For the english version of this file, scroll down
 
 Ένα σύντομο project που διαχειρίζεται τα ραντεβού μίας μικρής επιχείρησης, αναπτυγμένο σε [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) &  [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
 
-Η εφαρμογή τρέχει με την εκτέλεση του main.py για οποιον θελει να τρεξει τον κωδικα, αλλιώς διατίθεται και σε μορφή εκτελέσιμου αρχείου .exe
+Η εφαρμογή τρέχει με την εκτέλεση του main.py για οποιον θελει να τρεξει τον κωδικα, αλλιώς διατίθεται και σε μορφή εκτελέσιμου αρχείου [.exe][https://www.dropbox.com/scl/fi/h6ii2yv4mluukuikddd9c/MeetMe.exe?rlkey=m1o8no3rmvacnjcqiqgd39220&st=fdrmxk06&dl=0] 
 
 Όλες οι συναρτήσεις που χρησιμοποιούνται εμπεριέχονται μέσα στο package "MeetMePack" και είναι χωρισμένες σε modules ανάλογα με τις εργασίες που εκτελούν. 
 
