@@ -14,16 +14,32 @@ _____________________________Your Appointment Management Solution_______________
 
 Ένα σύντομο project που διαχειρίζεται τα ραντεβού μίας μικρής επιχείρησης, αναπτυγμένο σε [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) &  [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
 
-Η εφαρμογή τρέχει με την εκτέλεση του main.py για οποιον θελει να τρεξει τον κωδικα, αλλιώς διατίθεται και σε μορφή εκτελέσιμου αρχείου [.exe](https://www.dropbox.com/scl/fi/h6ii2yv4mluukuikddd9c/MeetMe.exe?rlkey=m1o8no3rmvacnjcqiqgd39220&st=vbdceo3a&dl=0)
+Για την εκτέλεση του προγράμματος χρειάζεται και τα 4 αρχεία που περιέχει το repository να βρίσκονται στον ίδιο φάκελο.
 
-Όλες οι συναρτήσεις που χρησιμοποιούνται εμπεριέχονται μέσα στο package "MeetMePack" και είναι χωρισμένες σε modules ανάλογα με τις εργασίες που εκτελούν. 
+Η εφαρμογή τρέχει με την εκτέλεση του MeetMe.py . Εναλλακτικά διατίθεται και σε μορφή εκτελέσιμου αρχείου [.exe](https://www.dropbox.com/scl/fi/h6ii2yv4mluukuikddd9c/MeetMe.exe?rlkey=m1o8no3rmvacnjcqiqgd39220&st=vbdceo3a&dl=0)
+
+Όλος ο κώδικας εμπεριέχονται μέσα στον φάκελο "MeetMePack" και είναι χωρισμένος σε 3 modules:
+- ##### FrontEnd (visuals & layouts made with customtkinter)
+- ##### BackEnd (database, supporting fucntion that extract data from db)
+- ##### ConnectBackFrontEnd (displaying the extracted data on the FrontEnd)
 
 Τα παρακάτω πακέτα χρειάζεται να εκγατασταθούν έτσι ώστε το πρόγραμμα να λειτουργεί σωστά:
  - pip
  - pillow
  - xlswritter
+ - opencv-python
+ - pygame
+ - time
+ - customtkinter
+________________________________________________________________________________________________
 
-All icons are propety of [icons8](https://icons8.com/icons)
+Το πρόγραμμα είναι ένα απλό σύστημα διαχείρησης ραντεβού μιας μικρής επιχείρησης. Φτιαγμνένο με σύγχρονα γραφικά και μοντέρνα προσέγγιση, ο χρήστης έχει την δυνατότητα να αποθυκεύευει και να επεξεργάζετα πελάτες καθώς και να κλείνει ή να διαγράφει ή να επεξεργάζεται αντίστοιχα τα ραντεβού των πελατών αυτών. Επίσης υποστιρίζονται δυνατότητες αναζήτησης πελάτη με e-mail ή τηλέφωνο, καθώς και αναζήτηση συγκεκριμένης μέρας και προβολή των ραντεβού την μέρα εκείνη. Επίσης δίνεται η δυνατότητα εξαγωγής ραντεβού της συγκεκριμένης ημέρας σε αρχείο xls καθώς και αποστολή υπενθύμισης e-mail σε όλους του πελάτες που έχουν ραντεβού την επιλεγμένη ημέρα. 
+
+### Ακολουθούν μερικά screenshots της εφαρμογής 
+
+![Screenshot 2024-05-31 163030](https://github.com/Harry2gks/PLHPRO-5-PROJECT/assets/86739581/ad132375-3de0-49c0-9517-0371370c1100)  
+![Screenshot 2024-05-31 164949](https://github.com/Harry2gks/PLHPRO-5-PROJECT/assets/86739581/435358d2-cca4-4f9b-8ffd-fa48a073ba53)
+
 
 
 
