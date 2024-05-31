@@ -47,11 +47,11 @@ ________________________________________________________________________________
 ## Participants: Charalambos Katsaris & Nikolaos Koronios
 ## For the English version of this file, scroll down
 
-A short project that manages the appointments of a small business, developed in My Skills & My Skills
+A short project that manages the appointments of a small business, developed in [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) &  [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
 
 To run the program, all 4 files contained in the repository need to be in the same folder.
 
-The application runs by executing MeetMe.py. Alternatively, it is also available as an executable file .exe.
+The application runs by executing MeetMe.py. Alternatively, it is also available as an executable file [.exe](https://www.dropbox.com/scl/fi/h6ii2yv4mluukuikddd9c/MeetMe.exe?rlkey=m1o8no3rmvacnjcqiqgd39220&st=vbdceo3a&dl=0)
 
 All the code is contained within the "MeetMePack" folder and is divided into 3 modules:
 
