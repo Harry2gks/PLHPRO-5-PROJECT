@@ -17,7 +17,7 @@ _____________________________Your Appointment Management Solution_______________
 
 Για την εκτέλεση του προγράμματος χρειάζεται και τα 4 αρχεία που περιέχει το repository να βρίσκονται στον ίδιο φάκελο.
 
-Η εφαρμογή τρέχει με την εκτέλεση του MeetMe.py. Εναλλακτικά διατίθεται και σε μορφή εκτελέσιμου αρχείου [.exe](https://www.dropbox.com/scl/fi/h6ii2yv4mluukuikddd9c/MeetMe.exe?rlkey=m1o8no3rmvacnjcqiqgd39220&st=vbdceo3a&dl=0)
+Η εφαρμογή τρέχει με την εκτέλεση του MeetMe.py. Εναλλακτικά διατίθεται και σε μορφή εκτελέσιμου αρχείου [.exe](https://www.dropbox.com/scl/fi/e2thzn4i3vnrkx0yshj12/MeetMe.exe?rlkey=lrjms29x5zq0czn07lqw0zjz1&st=wev378kv&dl=0)
 
 Όλος ο κώδικας εμπεριέχονται μέσα στον φάκελο "MeetMePack" και είναι χωρισμένος σε 3 modules:
 - ##### FrontEnd (visuals & layouts made with customtkinter)
