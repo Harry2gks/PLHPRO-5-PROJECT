@@ -60,6 +60,13 @@ def change_client_details(conn, client_id, new_name=None, new_surname=None, new_
 def delete_client(conn, client_id):
     """Delete client"""
     try:
+
+        # first delete the client's appointment
+        client_appointment = appointments_per_client(conn, client_id=client_id)
+        for appointment in client_appointment:
+            delete_appointment(conn, appointment[0])
+
+        # After delete the client
         cur = conn.cursor()
         cur.execute("""
             DELETE FROM clients
